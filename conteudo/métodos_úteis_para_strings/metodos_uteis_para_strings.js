@@ -1,0 +1,29 @@
+document.getElementById("botao").onclick = function () {
+    let a = document.getElementById("aText").value;
+    let b = document.getElementById("bText").value;
+    let bb = Number(document.getElementById("bbText").value);
+    let bbb = b.charAt(bb);
+    let c = document.getElementById("cText").value;
+    let cc = document.getElementById("ccText").value;
+    let ccc = c.indexOf(cc);
+    let d = document.getElementById("dText").value;
+    let dd = document.getElementById("ddText").value;
+    let ddd = d.lastIndexOf(dd);
+    let e = document.getElementById("eText").value;
+    let ee = e.trim();
+    let f = document.getElementById("fText").value;
+    let ff = f.toLocaleUpperCase();
+    let g = document.getElementById("gText").value;
+    let gg = g.toLocaleLowerCase();
+    let h = document.getElementById("hText").value;
+    let hh = h.replaceAll(" ", "-")
+
+    document.getElementById("aLabel").innerHTML = "Há " + (a.length) + " caracteres nesse texto que você digitou!";
+    document.getElementById("bLabel").innerHTML = "No " + bb + "° " + "índice " + "tem o caractere: " + bbb;
+    document.getElementById("cLabel").innerHTML = "O primeiro índice do caractere " + cc.bold() + " é: " + ccc;
+    document.getElementById("dLabel").innerHTML = "O último índice do caractere " + dd.bold() + " é: " + ddd;
+    document.getElementById("eLabel").innerHTML = "O texto digitado sem espaços nas extremidades é: " + ee;
+    document.getElementById("fLabel").innerHTML = "O texto digitado com todas as letras maiúsculas fica: " + ff;
+    document.getElementById("gLabel").innerHTML = "O texto digitado com todas as letras maiúsculas fica: " + gg;
+    document.getElementById("hLabel").innerHTML = "O seu nome completo com hífens ao invés de espaços fica: " + hh;
+}
