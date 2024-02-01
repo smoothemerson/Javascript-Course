@@ -17,10 +17,10 @@ h1:hover{
     color: cadetblue;
 }
 
-buttom a{
+button a{
     color: aqua;
 }
 
-buttom a:hover{
+button a:hover{
     color: burlywood;
 }
