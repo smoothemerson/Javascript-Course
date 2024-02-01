@@ -13,6 +13,12 @@
     --color-base-button-a-hover: #0000ff;
 }
 
+.app {
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+}
+
 body,
 button{
     font-size: 1.6rem;
