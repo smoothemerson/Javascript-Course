@@ -33,12 +33,14 @@ h1{
 }
 
 button {
-    text-decoration: none;
     border: none;
+    
     text-align: left;
 }
 
 button a{
+    text-decoration: none;
+
     color: var(--color-base-button-a);
 }
 
