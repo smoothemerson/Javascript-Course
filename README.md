@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Javascript Course" src="./github/preview.png" width="100%">
+  <img alt="Javascript Course" src="./github/previewimg.png" width="100%">
 </p>
 
 ## 🚀 Topics
