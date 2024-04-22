@@ -1,7 +1,7 @@
 <h1 align="center"> Javascript Course  </h1>
 
 <p align="center">
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-topics">Topics</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Javascript Course" src="./github/previewimg.png" width="350px" height="500px">
+  <img alt="Javascript Course" src="./github/preview.png" width="350px" height="500px">
 </p>
 
 ## 🚀 Topics
@@ -30,8 +30,6 @@ This project covered the following topics:
 ## 💻 Project
 
 This Javascript course contains a lot of information about this essential language for devs.
-
-- [Access the finished project, online](https://smoothemerson.github.io/Javascript-Course/)
 
 - [Watch class](https://www.youtube.com/watch?v=8dWL3wF_OMw&t=27947s)
 
